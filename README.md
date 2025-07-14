@@ -65,6 +65,6 @@ Feel free to connect and explore more!
 
 ---
 
-## 📄 License
+📄 License
 
 This project is open-source and free to use for learning or development purposes.
